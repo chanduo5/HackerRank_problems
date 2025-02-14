@@ -1,4 +1,4 @@
-## Problem Description: ##
+# Problem Description: #
 
 You are given a positive integer n. Depending on the value of n, you need to perform the following actions:
 
