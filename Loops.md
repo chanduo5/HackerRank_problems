@@ -39,6 +39,7 @@ python
   and prints the result. The print() function outputs the result to the standard output.
 
 ## Example ##
+
 Let's take an example to understand how the code works. If we input n = 3, the sequence of non-negative integers less than 3 is [0, 1, 2]. The code will print the square of each of these integers:
 
      0  # 0*0
