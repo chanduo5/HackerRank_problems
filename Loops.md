@@ -41,15 +41,15 @@ python
 ## Example ##
 Let's take an example to understand how the code works. If we input n = 3, the sequence of non-negative integers less than 3 is [0, 1, 2]. The code will print the square of each of these integers:
 
-0  # 0*0
-1  # 1*1
-4  # 2*2
+     0  # 0*0
+     1  # 1*1
+     4  # 2*2
 
 So the output for n = 3 will be:
 
-0
-1
-4
+    0
+    1
+    4
 
 This code effectively solves the problem by utilizing a loop to process each integer less than n and print its square.
 
