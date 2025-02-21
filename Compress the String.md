@@ -15,6 +15,7 @@ You are given a string 𝑆 consisting of digits from 0 to 9. Your task is to re
 
 ## Sample Input: ##
 1222311
+
 ## Sample Output: ##
 (1, 1) (3, 2) (1, 3) (2, 1)
 
@@ -43,7 +44,7 @@ python
     return ' '.join(result)
 
     # Sample Input
-     s = "1222311"
+      s = "1222311"
 
     # Output
     print(compress_string(s))
