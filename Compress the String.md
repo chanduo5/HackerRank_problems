@@ -39,14 +39,13 @@ python
     def compress_string(s):
        result = []
        for key, group in groupby(s):
-           count = len(list(group))
-           result.append(f"({count}, {key})")
+        count = len(list(group))
+        result.append(f"({count}, {key})")
     return ' '.join(result)
 
-    # Sample Input
-      s = "1222311"
-
-    # Output
+    if __name__ == "__main__":
+    s = input()
     print(compress_string(s))
+
 
 This code will take a string 𝑠 and use the groupby function to group consecutive characters. For each group, it will count the number of occurrences and format them as (𝑋,𝑐), where 𝑋 is the count and 𝑐 is the character. The result will be a single string with the modified content, separated by spaces.
