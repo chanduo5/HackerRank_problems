@@ -1,12 +1,12 @@
-### **Problem Description**  
+## **Problem Description**  
 You are given a list of `N` lowercase English letters. You need to randomly select `K` indices from this list and determine the probability that at least one of the selected indices contains the letter `'a'`.  
 
-### **Input Format**  
+## **Input Format**  
 1. The first line contains an integer `N`, representing the total number of elements in the list.  
 2. The second line contains `N` space-separated lowercase English letters.  
 3. The third line contains an integer `K`, representing the number of indices to be selected.  
 
-### **Output Format**  
+## **Output Format**  
 - Print the probability that at least one of the selected indices contains the letter `'a'`, rounded to four decimal places.  
 
 ---
@@ -31,7 +31,7 @@ a a c d
 ```
 ---
 
-### **Approach to Solve the Problem**  
+## **Approach to Solve the Problem**  
 We solve this problem using combinatorics and probability concepts.
 
 #### **Step 1: Understanding the Total Selections**  
@@ -70,7 +70,7 @@ We solve this problem using combinatorics and probability concepts.
 
 ---
 
-### **Python Code Implementation**
+## **Python Code Implementation**
 ```python
 from itertools import combinations
 
@@ -100,7 +100,7 @@ print(f"{prob_at_least_one_a:.4f}")
 
 ---
 
-### **Detailed Explanation of the Code**  
+## **Detailed Explanation of the Code**  
 
 #### **1. Importing the Required Library**
 ```python
@@ -181,7 +181,7 @@ a a c d
 ```
 ---
 
-### **Complexity Analysis**
+## **Complexity Analysis**
 - Counting `'a'` in the list: **O(N)**  
 - Computing combinations: **O(N choose K) ≈ O(N!)** (For small values of `N`, this is manageable.)  
 - Overall, the algorithm runs efficiently for **small to moderate values of `N`**.
