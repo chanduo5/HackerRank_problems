@@ -2,9 +2,23 @@ Sure, let's break down the problem and code step by step.
 
 ### Problem Statement
 You are given three integers \( x \), \( y \), and \( z \) representing the dimensions of a cuboid, along with an integer \( n \). Your task is to print a list of all possible coordinates \((i, j, k)\) on a 3D grid such that the sum of \( i + j + k \) is not equal to \( n \). The range of \( i \), \( j \), and \( k \) are defined as follows:
-- \( 0 \leq i \leq x \)
-- \( 0 \leq j \leq y \)
-- \( 0 \leq k \leq z \)
+- 0
+≤
+𝑖
+≤
+𝑥
+
+- 0
+≤
+𝑗
+≤
+𝑦
+
+- 0
+≤
+𝑘
+≤
+𝑧
 
 The coordinates should be printed in lexicographic increasing order.
 
