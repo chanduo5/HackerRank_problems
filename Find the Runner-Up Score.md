@@ -1,6 +1,4 @@
-Of course! Let's break down the problem and the solution step by step.
-
-### Problem Explanation
+## Problem Explanation
 You are given a list of scores from a sports event. You need to find the runner-up score, which is the second-highest score in the list. 
 
 ### Input Details
@@ -8,8 +6,21 @@ You are given a list of scores from a sports event. You need to find the runner-
 - The second line of input contains `n` integers, which are the scores separated by spaces.
 
 ### Constraints
-- \( 2 \leq n \leq 10 \)
-- \( -100 \leq A[i] \leq 100 \)
+- 2
+≤
+𝑛
+≤
+10
+
+- −
+100
+≤
+𝐴
+[
+𝑖
+]
+≤
+100
 
 ### Output
 - You need to print the second-highest score (the runner-up score).
