@@ -79,4 +79,4 @@ if __name__ == '__main__':
 5. **Printing the Runner-Up Score:**
    - `print(runner_up_score)` prints the runner-up score.
 
-This code ensures that you get the correct runner-up score even if there are duplicate scores in the input. Feel free to run the code and let me know if you have any questions! 😊
+This code ensures that you get the correct runner-up score even if there are duplicate scores in the input.
