@@ -1,6 +1,4 @@
-Sure! Let's break it down:
-
-### Problem Statement
+## Problem Statement
 You are given the names and grades for a class of N students. Your task is to store these records in a nested list and print the names of any students having the second lowest grade. If there are multiple students with the second lowest grade, order their names alphabetically and print each name on a new line.
 
 #### Example
@@ -68,4 +66,3 @@ if __name__ == '__main__':
 5. **Printing the Results**:
     - Finally, the code prints each name from the list of students with the second lowest grade on a new line.
 
-This solution efficiently handles the problem constraints and ensures the output meets the required format. Do you have any further questions or need more assistance with this code?
