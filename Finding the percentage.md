@@ -1,16 +1,14 @@
-Sure, let's break down the problem step by step.
-
-### Problem Description
+## Problem Description
 
 You are given a dictionary containing key/value pairs where the keys are student names and the values are arrays of marks obtained by each student. You need to read this dictionary from input and print the average of the marks array for the student name provided, formatted to two decimal places.
 
-#### Input Format
+### Input Format
 
 1. The first line contains the integer `n`, the number of student records.
 2. The next `n` lines contain the names and marks obtained by a student, each value separated by a space.
 3. The final line contains `query_name`, the name of a student to query.
 
-#### Example
+### Example
 
 Consider the following input:
 ```
@@ -72,5 +70,3 @@ This code performs the following steps:
 5. Checks if the query name is in the dictionary.
 6. Calculates the average of the marks for the queried student.
 7. Prints the average marks, formatted to two decimal places.
-
-Feel free to run this code and let me know if you have any questions or need further assistance!
