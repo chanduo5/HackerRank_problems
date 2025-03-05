@@ -1,4 +1,5 @@
-### Problem Statement
+## Problem Statement
+
 You are tasked with performing several operations on a list. You are given an integer `N`, which represents the number of commands to process. For each command, you will perform a specific operation on the list. The possible commands are:
 1. **insert i e**: Insert integer `e` at position `i`.
 2. **print**: Print the list.
@@ -12,7 +13,7 @@ The task is to process all the commands in order and perform the specified opera
 
 ---
 
-### Code
+## Code
 
 Here is the Python code:
 
@@ -47,7 +48,7 @@ if __name__ == '__main__':
 
 ---
 
-### Explanation of the Code
+## Explanation of the Code
 
 1. **Input Handling**:
    - First, the code reads `N`, which indicates the number of commands to process.
@@ -72,7 +73,7 @@ if __name__ == '__main__':
 
 ### Example Execution
 
-#### Input:
+### Input:
 ```
 4
 append 1
@@ -81,7 +82,7 @@ insert 1 3
 print
 ```
 
-#### Execution:
+### Execution:
 1. **`append 1`**: Adds `1` to the list → `arr = [1]`.
 2. **`append 2`**: Adds `2` to the list → `arr = [1, 2]`.
 3. **`insert 1 3`**: Inserts `3` at index `1` → `arr = [1, 3, 2]`.
@@ -89,4 +90,3 @@ print
 
 ---
 
-Let me know if you'd like further explanations or enhancements to the solution! 🚀
