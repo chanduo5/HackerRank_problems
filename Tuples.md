@@ -1,14 +1,14 @@
-### **Problem Statement:**
-#### **Task**
+## **Problem Statement:**
+### **Task**
 Given an integer `n` and `n` space-separated integers as input, create a tuple `t` of those `n` integers. Then compute and print the result of `hash(t)`.  
 
 **Note:** `hash()` is a built-in function in Python, so no imports are required.
 
-#### **Input Format**
+### **Input Format**
 - The first line contains an integer, `n`, denoting the number of elements in the tuple.
 - The second line contains `n` space-separated integers describing the elements in tuple `t`.
 
-#### **Output Format**
+### **Output Format**
 - Print the result of `hash(t)`.
 
 #### **Constraints**
@@ -117,4 +117,3 @@ This will help verify if the input tuple is being read correctly.
 
 ---
 
-🚀 **Try running the code and let me know if you face any issues!**
