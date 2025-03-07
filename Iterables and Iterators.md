@@ -1,4 +1,4 @@
-### **Problem Description**  
+# **Problem Description**  
 You are given a list of `N` lowercase English letters. You need to randomly select `K` indices from this list and determine the probability that at least one of the selected indices contains the letter `'a'`.  
 
 ## **Input Format**  
