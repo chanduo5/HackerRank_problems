@@ -14,7 +14,7 @@ You are given two sets of integers, `M` and `N`. Your task is to:
 
 ---
 
-### Code Explanation:
+## Code Explanation:
 Here is the Python code again, followed by a detailed explanation:
 
 ```python
@@ -76,7 +76,7 @@ for element in sorted(symmetric_difference):
 
 ---
 
-### Example Execution:
+## Example Execution:
 
 #### Input:
 ```
@@ -105,9 +105,8 @@ for element in sorted(symmetric_difference):
 
 ---
 
-### Key Notes:
+## Key Notes:
 - Sets automatically handle duplicates, so each element in a set is unique.
 - The `symmetric_difference()` method ensures that only non-overlapping elements are considered.
 - The `sorted()` function is used to guarantee that the output is in ascending order, as required by the problem statement.
 
-I hope this explanation clears up everything! Let me know if you'd like more examples or further clarification. 😊
