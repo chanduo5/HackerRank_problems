@@ -1,4 +1,4 @@
-### Problem
+# Problem
 
 Write a function `max_subarray_sum` that takes a list of integers and returns the sum of the maximum subarray. A subarray is a contiguous part of an array. 
 
