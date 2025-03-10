@@ -1,7 +1,7 @@
 
 ---
 
-### **Problem Statement**
+# **Problem Statement**
 You are given a string, and your task is to modify it by swapping the case of each character:
 - All lowercase letters should be converted to uppercase.
 - All uppercase letters should be converted to lowercase.
@@ -15,7 +15,7 @@ Other characters, such as digits, punctuation, and spaces, should remain unchang
 
 ---
 
-### **Code Implementation**
+## **Code Implementation**
 Here is the Python implementation of the solution:
 
 ```python
@@ -30,7 +30,7 @@ if __name__ == '__main__':
 
 ---
 
-### **Detailed Explanation of the Code**
+## **Detailed Explanation of the Code**
 #### **1. Function Definition**:
 ```python
 def swap_case(s):
@@ -65,7 +65,7 @@ print(result)
 
 ---
 
-### **How the Code Works with Examples**
+## **How the Code Works with Examples**
 1. **Example 1**:
    - Input: `"Www.HackerRank.com"`
    - `swap_case("Www.HackerRank.com")`:
@@ -80,7 +80,7 @@ print(result)
 
 ---
 
-### **Key Features of This Approach**
+## **Key Features of This Approach**
 1. **Efficiency**:
    - The `swapcase()` method is highly optimized and processes strings in linear time, O(n), where `n` is the length of the string.
 2. **Simplicity**:
@@ -89,5 +89,3 @@ print(result)
    - The solution works for strings with lengths up to 1000 characters, as specified in the problem.
 
 ---
-
-Feel free to test the code with different inputs! Let me know if you'd like further clarification. 😊
