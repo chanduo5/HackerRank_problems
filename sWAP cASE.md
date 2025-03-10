@@ -1,4 +1,3 @@
-Sure! Let's break it down step by step with the problem statement, explanation, and a detailed description of the code.
 
 ---
 
