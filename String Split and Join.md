@@ -1,4 +1,4 @@
-### Problem Description:
+# Problem Description:
 You are tasked with manipulating a string in Python by performing two specific operations:
 1. Splitting the string into a list of words using a **space** (" ") as a delimiter.
 2. Joining the resulting list of words back into a single string, with each word separated by a **hyphen** ("-").
@@ -7,7 +7,7 @@ This problem requires implementing a function named `split_and_join`, which acce
 
 ---
 
-### **Problem Statement:**
+## **Problem Statement:**
 Write a Python function called `split_and_join`. 
 
 **Function Signature:**
@@ -31,7 +31,7 @@ The output is a single string, where the words are joined by hyphens.
 
 ---
 
-### **Examples:**
+## **Examples:**
 
 #### **Example 1:**
 Input:
@@ -71,7 +71,7 @@ if __name__ == '__main__':
 
 ---
 
-### **Step-by-Step Explanation of the Code:**
+## **Step-by-Step Explanation of the Code:**
 1. **Splitting:** The method `line.split(" ")` splits the input string `line` into a list of words by using the space character as a delimiter.
    - Example: `"this is a string".split(" ")` → `['this', 'is', 'a', 'string']`.
 
@@ -87,4 +87,3 @@ if __name__ == '__main__':
 
 ---
 
-Let me know if you need further clarification! 🚀
