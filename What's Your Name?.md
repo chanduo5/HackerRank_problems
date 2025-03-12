@@ -1,4 +1,4 @@
-### Problem Statement:
+# Problem Statement:
 You are given two inputs: a person's first name and last name, each on a separate line. Your task is to write a Python function, `print_full_name`, which takes these two strings as input parameters and outputs a formatted message that greets the person and indicates they are delving into Python. 
 
 The output format must be:
@@ -75,7 +75,7 @@ if __name__ == '__main__':
 
 ---
 
-### Example:
+## Example:
 
 #### Input:
 ```
@@ -83,16 +83,14 @@ John
 Doe
 ```
 
-#### Execution:
+### Execution:
 - The `first_name` is `"John"`, and the `last_name` is `"Doe"`.
 - The function `print_full_name("John", "Doe")` is called.
 - Inside the function, the message `Hello John Doe! You just delved into python.` is printed.
 
-#### Output:
+### Output:
 ```
 Hello John Doe! You just delved into python.
 ```
 
 ---
-
-This solution adheres to the constraints and ensures the output is formatted exactly as required. Let me know if you'd like me to elaborate further! 😊
