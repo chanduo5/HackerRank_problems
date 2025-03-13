@@ -1,8 +1,6 @@
-Certainly! Let’s dive deeper into the problem statement and the explanation of both the task and the code.
-
 ---
 
-### **Problem Statement**
+# **Problem Statement**
 
 You are given a string, and you need to modify it by replacing the character at a specific index with a new character. Since strings in Python are immutable (cannot be changed directly), you will need to implement a solution that works around this limitation.
 
@@ -34,7 +32,7 @@ Return the modified string after performing the substitution.
 
 ---
 
-### **Example Input and Output**
+## **Example Input and Output**
 
 #### Example 1:
 **Input:**
