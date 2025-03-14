@@ -1,11 +1,11 @@
 # Problem Statement
 You are given a string and a substring. Your task is to determine how many times the substring occurs in the string. String traversal will take place from left to right, and the matching is case-sensitive.
 
-### Input Format:
+## Input Format:
 1. The first line contains the main string.
 2. The second line contains the substring.
 
-### Constraints:
+## Constraints:
 - 1 ≤ length of the main string ≤ 200
 - Characters are ASCII, and the matching is case-sensitive.
 
@@ -77,7 +77,7 @@ if __name__ == '__main__':
 
 ---
 
-#### Example Walkthrough:
+### Example Walkthrough:
 Let’s walk through the provided sample input:
 
 - **Input:**
