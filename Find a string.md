@@ -1,9 +1,11 @@
 # Problem Statement
 You are given a string and a substring. Your task is to determine how many times the substring occurs in the string. String traversal will take place from left to right, and the matching is case-sensitive.
 
+
 ## Input Format:
 1. The first line contains the main string.
 2. The second line contains the substring.
+
 
 ## Constraints:
 - 1 ≤ length of the main string ≤ 200
@@ -24,6 +26,7 @@ CDC
 ```
 
 ---
+
 
 # Explanation of the Code:
 
@@ -46,7 +49,7 @@ if __name__ == '__main__':
 
 ---
 
-#### Explanation in Detail:
+## Explanation in Detail:
 
 1. **Function Definition:**
    - `count_substring(string, sub_string)`: This function calculates the number of times `sub_string` appears in `string`.
