@@ -95,5 +95,3 @@ Let’s walk through the provided sample input:
   - Total matches = 2
 
 ---
-
-This approach ensures an efficient way to find overlapping substrings. If you have further questions or need enhancements to the code, let me know! 😊
