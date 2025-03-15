@@ -1,6 +1,4 @@
-Here’s the complete problem statement followed by an explanation of the code:
-
-### Problem Statement:
+# Problem Statement:
 Given a string `S`, determine the following:
 1. Does `S` contain any alphanumeric characters?
 2. Does `S` contain any alphabetical characters?
@@ -17,7 +15,7 @@ The input is a single line containing the string `S` (0 < len(S) < 1000). The pr
 
 ---
 
-### Code Explanation:
+## Code Explanation:
 ```python
 if __name__ == '__main__':
     s = input()
@@ -28,7 +26,7 @@ if __name__ == '__main__':
     print(any(char.isupper() for char in s))  # Checks for uppercase characters
 ```
 
-#### Detailed Explanation:
+## Detailed Explanation:
 1. **`if __name__ == '__main__':`**  
    This line ensures that the code inside the block runs only when the script is executed directly and not when it is imported as a module in another script.
 
@@ -55,12 +53,12 @@ if __name__ == '__main__':
    - `isupper()` checks if a character is an uppercase letter (A-Z).
    - The `any()` function verifies the existence of any uppercase character and returns `True` if one exists.
 
-### Sample Input:
+## Sample Input:
 ```
 aBc123#
 ```
 
-### Output:
+## Output:
 ```
 True
 True
