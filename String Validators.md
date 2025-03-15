@@ -67,11 +67,9 @@ True
 True
 ```
 
-### Explanation of Output:
+## Explanation of Output:
 - **Alphanumeric Characters**: `aBc123#` contains `a`, `B`, `c`, `1`, `2`, and `3`, so it returns `True`.
 - **Alphabetical Characters**: `aBc123#` contains `a`, `B`, and `c`, so it returns `True`.
 - **Digits**: `aBc123#` contains `1`, `2`, and `3`, so it returns `True`.
 - **Lowercase Characters**: `aBc123#` contains `a` and `c`, so it returns `True`.
 - **Uppercase Characters**: `aBc123#` contains `B`, so it returns `True`.
-
-Let me know if you'd like me to explain anything else!
