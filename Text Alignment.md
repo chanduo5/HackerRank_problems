@@ -1,8 +1,7 @@
-Let’s approach this step by step:
 
 ---
 
-### **Problem Statement**
+# **Problem Statement**
 You are tasked with generating a logo for "HackerRank" using the character `H`. The logo should be of variable thickness, based on user input. The generated logo consists of five parts:
 1. **Top cone**: A cone shape formed using the `H` character.
 2. **Top pillars**: Two vertical pillars of `H` characters side by side.
@@ -14,7 +13,7 @@ To achieve the desired alignment for these parts, you need to use Python's strin
 
 ---
 
-### **Proper Explanation**
+## **Proper Explanation**
 - **Input**: A single integer, `thickness`, which determines the size of the logo.
 - **Output**: The logo with a height and width proportional to the input thickness.
 
