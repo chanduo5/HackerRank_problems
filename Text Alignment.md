@@ -93,7 +93,7 @@ for i in range(thickness):
 5
 ```
 
-#### Output:
+## Output:
 ```
     H    
    HHH   
@@ -121,4 +121,3 @@ HHHHHHHHH
 
 ---
 
-This approach breaks down the problem logically and systematically. Play around with the code, and let me know if you need any clarifications! 😊
