@@ -1,4 +1,4 @@
-### Problem Statement
+# Problem Statement
 You need to create a doormat pattern generator based on specific design requirements. Here's the problem:
 
 1. **Input Specifications**:
