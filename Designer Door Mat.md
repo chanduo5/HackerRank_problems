@@ -23,7 +23,7 @@ You need to create a doormat pattern generator based on specific design requirem
 
 ---
 
-### Explanation of the Code
+## Explanation of the Code
 Here’s a line-by-line breakdown of the updated code:
 
 ```python
@@ -74,7 +74,7 @@ else:
 
 ---
 
-### Sample Input/Output
+## Sample Input/Output
 #### Input:
 ```
 9 27
@@ -100,4 +100,3 @@ else:
 - **Center Alignment**: Patterns and text are perfectly centered for consistent formatting.
 - **Flexibility**: The code works for any valid `N` and `M` within the constraints.
 
-This explanation, combined with the code, should help you fully understand and solve this problem. Let me know if you need additional clarifications! 😊
