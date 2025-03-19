@@ -1,7 +1,7 @@
 
 ---
 
-## **Problem Statement**
+# **Problem Statement**
 You are tasked to write a Python function called `print_formatted`, which formats and prints the following representations for each integer \( i \) from \( 1 \) to \( n \):
 
 1. **Decimal Representation** (base 10)
