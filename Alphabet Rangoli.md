@@ -63,5 +63,3 @@ if __name__ == '__main__':
     print_rangoli(n)
 ```
 - This takes user input `n` and calls `print_rangoli(n)` to print the alphabet rangoli.
-
-Would you like me to further optimize or explain any specific part? 😊
