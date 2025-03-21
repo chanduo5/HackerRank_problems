@@ -6,13 +6,13 @@ You are tasked with creating a function that ensures that the first and last nam
 - For each word in the input string, only the first character should be capitalized, and the remaining characters should stay in lowercase.
 - Words containing alphanumeric characters, such as "12abc", should remain unchanged except for the first character of the word, if it is a letter.
 
-#### **Input Format**
+## **Input Format**
 - A single string, `S`, containing the full name. The string may contain multiple words separated by spaces.
 - Constraints:
   - `0 < len(S) < 1000` (The length of the string must be between 1 and 999 characters.)
   - The string consists of alphanumeric characters and spaces.
 
-#### **Output Format**
+## **Output Format**
 - The output should be the input string with each word properly capitalized.
 
 #### **Example**
@@ -30,7 +30,7 @@ Output:
 
 ---
 
-### **Code Explanation**
+# **Code Explanation**
 
 Below is the Python code to solve this problem, along with its detailed explanation.
 
@@ -107,4 +107,3 @@ Here are a few scenarios to ensure the program works as intended:
 | `hello world`       | `Hello World`   |
 | `JANE DOE`          | `Jane Doe`      |
 
-This explanation walks you through both the problem and the solution step-by-step. Let me know if you'd like additional examples or concepts clarified!
