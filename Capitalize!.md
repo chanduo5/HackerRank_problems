@@ -1,8 +1,7 @@
-Certainly! Let me break this down for you step-by-step:
 
 ---
 
-### **Problem Statement**
+# **Problem Statement**
 You are tasked with creating a function that ensures that the first and last names in a given input string are properly capitalized as they would appear on a passport. Specifically:
 - For each word in the input string, only the first character should be capitalized, and the remaining characters should stay in lowercase.
 - Words containing alphanumeric characters, such as "12abc", should remain unchanged except for the first character of the word, if it is a letter.
