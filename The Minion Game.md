@@ -1,10 +1,10 @@
 
 ---
 
-## **Problem Statement**
+# **Problem Statement**
 Kevin and Stuart are playing "The Minion Game," where they compete to find substrings within a given string, `S`. 
 
-### **Game Rules**
+## **Game Rules**
 1. Kevin scores points for substrings that start with vowels (`A, E, I, O, U`).
 2. Stuart scores points for substrings that start with consonants (all letters except vowels).
 3. Each substring contributes points equal to the number of times it appears in the string.
@@ -15,20 +15,20 @@ The game involves:
 
 ---
 
-### **Input Format**
+## **Input Format**
 A single line of input containing a string `S`, which:
 - Only contains uppercase English letters (`A-Z`).
 - Has a length constraint, i.e., `1 ≤ len(S) ≤ 10^6`.
 
 ---
 
-### **Output Format**
+## **Output Format**
 The output must print:
 - The winner's name followed by their score (e.g., `"Kevin 15"` or `"Stuart 10"`), or `"Draw"` if their scores are equal.
 
 ---
 
-### **Example**
+## **Example**
 #### Input:
 `BANANA`
 
@@ -46,7 +46,7 @@ The output must print:
 
 ---
 
-### **Code Explanation**
+# **Code Explanation**
 
 Here is the code again for clarity:
 
@@ -77,7 +77,7 @@ if __name__ == '__main__':
     minion_game(s)
 ```
 
-#### **Step-by-Step Explanation of the Code**
+### **Step-by-Step Explanation of the Code**
 
 1. **Initialization:**
    - `vowels = 'AEIOU'`: A string to define the vowel characters.
@@ -140,4 +140,3 @@ if __name__ == '__main__':
 | BCDFG       | Stuart 15        | All substrings are consonants, Stuart scores 15. Kevin scores 0.               |
 | DRAW        | Stuart 9         | Stuart scores 9 from consonants, Kevin scores 6 from vowels. Stuart wins.      |
 
-This provides a comprehensive overview of the problem, solution, and key insights. Let me know if you have any questions or need further clarification!
