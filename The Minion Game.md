@@ -1,11 +1,10 @@
-Let me provide you with a detailed explanation, including the **problem statement**, a walkthrough of the **solution**, and an **explanation of the code**.
 
 ---
 
-### **Problem Statement**
+## **Problem Statement**
 Kevin and Stuart are playing "The Minion Game," where they compete to find substrings within a given string, `S`. 
 
-#### **Game Rules**
+### **Game Rules**
 1. Kevin scores points for substrings that start with vowels (`A, E, I, O, U`).
 2. Stuart scores points for substrings that start with consonants (all letters except vowels).
 3. Each substring contributes points equal to the number of times it appears in the string.
