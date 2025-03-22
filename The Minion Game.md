@@ -36,7 +36,7 @@ The output must print:
 #### Output:
 `Stuart 12`
 
-#### Explanation:
+## Explanation:
 - **Kevin's substrings (vowels: A):**
   - Substrings: `A`, `ANA`, `AN`, `A`, `A`
   - Total points = 9
