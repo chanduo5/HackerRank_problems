@@ -1,7 +1,7 @@
 
 ---
 
-### **Problem Statement**
+# **Problem Statement**
 You are given:
 1. A string `s` of length `n`.
 2. An integer `k` such that `k` is a factor of `n`.
@@ -19,8 +19,7 @@ You need to:
 - Print the resulting subsequences, one per line.
 
 ---
-
-### **Example**
+# **Example**
 **Input:**
 ```
 AAABCADDE
