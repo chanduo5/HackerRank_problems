@@ -1,4 +1,3 @@
-Sure, let's break this problem into its components for a detailed explanation.
 
 ---
 
