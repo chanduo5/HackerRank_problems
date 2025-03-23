@@ -50,7 +50,7 @@ DE
 
 ---
 
-### **Code**
+# **Code**
 Here’s the Python implementation of the solution:
 
 ```python
@@ -90,7 +90,7 @@ if __name__ == '__main__':
 
 ---
 
-### **Example Walkthrough**
+## **Example Walkthrough**
 #### Input:
 ```
 AAABCADDE
@@ -114,5 +114,3 @@ DE
 ```
 
 ---
-
-This solution is efficient and concise. If you have any questions or would like me to clarify further, let me know! 😊
