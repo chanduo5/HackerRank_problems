@@ -1,12 +1,10 @@
 
-Certainly, I'll provide the problem statement first, then the code explanation step-by-step, followed by an overall detailed explanation.
-
 ---
 
-### **Problem Statement**
+# **Problem Statement**
 You are given two lists, **A** and **B**, with no duplicate integer elements in each list. Your task is to compute their Cartesian product and display the result in the desired format.
 
-#### **What is a Cartesian Product?**
+### **What is a Cartesian Product?**
 The Cartesian product of two sets (or lists) **A** and **B** is the set of all ordered pairs \((a, b)\), where \(a\) is an element of **A** and \(b\) is an element of **B**. For example:
 - If \(A = [1, 2]\) and \(B = [3, 4]\),
   \[
@@ -22,7 +20,7 @@ The Cartesian product of two sets (or lists) **A** and **B** is the set of all o
 
 ---
 
-### **Python Code**
+# **Python Code**
 
 ```python
 from itertools import product
@@ -40,7 +38,7 @@ print(" ".join(map(str, cartesian_product)))
 
 ---
 
-### **Code Explanation**
+## **Code Explanation**
 
 1. **Importing the `product` function**:
    ```python
@@ -111,5 +109,3 @@ print(" ".join(map(str, cartesian_product)))
    ```
 
 ---
-
-Let me know if you need further clarification or additional modifications to the code! 😊
