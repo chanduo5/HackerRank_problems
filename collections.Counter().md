@@ -1,7 +1,7 @@
 # Problem Statement:
 Raghu owns a shoe shop with `X` shoes in inventory. He maintains a list of shoe sizes available. `N` customers arrive, each requesting a specific shoe size and offering a price for it. If Raghu has the requested shoe size in inventory, he sells it to the customer for the offered price and removes that size from his inventory. If the requested size is not available, Raghu cannot complete the sale. Your task is to calculate the total earnings Raghu makes after serving all customers.
 
-### Code:
+## Code:
 Below is the Python code with explanations for each part:
 
 ```python
@@ -62,4 +62,3 @@ print("Total Earnings:", earnings)
 #### **Output**:
 - The total earnings after serving all customers are printed.
 
-This step-by-step code ensures efficiency and accuracy when managing inventory and calculating earnings. Let me know if you'd like further assistance with testing or debugging!
