@@ -1,4 +1,4 @@
-### Problem Explanation:
+# Problem Explanation:
 The task is to process two groups of words and find the occurrence positions of each word from **Group B** in **Group A**. If a word from Group B is present in Group A, we print the indices (positions) where it appears. If it is not found, we print `-1`.
 
 #### Problem Input and Output:
@@ -12,7 +12,7 @@ The task is to process two groups of words and find the occurrence positions of 
      - Print the positions (indices) where it appears in Group A, separated by spaces.
      - If the word does not appear, print `-1`.
 
-#### Example:
+## Example:
 **Input**:
 ```
 5 2
@@ -36,7 +36,7 @@ d
 
 ---
 
-### Python Code:
+# Python Code:
 Here's the code to solve this problem using the `defaultdict` container.
 
 ```python
@@ -69,7 +69,7 @@ for word in group_b:
 
 ---
 
-### Code Explanation:
+## Code Explanation:
 
 1. **Using `defaultdict`**:
    - A `defaultdict` from the `collections` module is initialized as `group_a`. It automatically creates a list for each key when it's first accessed, avoiding the need to check if the key exists.
@@ -89,4 +89,3 @@ for word in group_b:
 
 ---
 
-This solution is efficient as it makes use of the dictionary's hashing mechanism to ensure quick lookup for Group B words, and `defaultdict` simplifies handling of missing keys. If you'd like, I can provide additional test cases or explain specific parts in more detail! 😊
