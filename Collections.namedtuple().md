@@ -3,7 +3,7 @@ Dr. John Wesley has a spreadsheet containing details of students, including thei
 
 ---
 
-### Code:
+## Code:
 
 ```python
 from collections import namedtuple
@@ -33,7 +33,7 @@ print(f"{average_marks:.2f}")
 
 ---
 
-### Code Explanation:
+## Code Explanation:
 
 #### **1. `from collections import namedtuple`**
 This imports the `namedtuple` feature from Python's `collections` module. A `namedtuple` allows creating tuple-like objects with named fields, making the code more readable.
