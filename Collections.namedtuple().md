@@ -75,7 +75,7 @@ The result is printed, rounded to two decimal places using Python's formatted st
 
 ---
 
-### Example:
+## Example:
 
 #### Input:
 ```
@@ -86,7 +86,7 @@ ID MARKS NAME CLASS
 3 78 Doe C
 ```
 
-#### Execution:
+### Execution:
 1. Number of students: `3`.
 2. Columns: `ID MARKS NAME CLASS`.
 3. Read student data:
@@ -96,11 +96,10 @@ ID MARKS NAME CLASS
 4. Total marks = `85 + 90 + 78 = 253`.
 5. Average marks = `253 / 3 = 84.33`.
 
-#### Output:
+### Output:
 ```
 84.33
 ```
 
 ---
 
-This program adapts flexibly to varying column orders while ensuring clarity through the use of `namedtuple`. Would you like help testing or customizing the code further? 😊
