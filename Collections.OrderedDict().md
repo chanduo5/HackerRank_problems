@@ -36,7 +36,7 @@ orange 40
 
 ---
 
-### Code:
+# Code:
 
 ```python
 from collections import OrderedDict
@@ -64,7 +64,7 @@ for item_name, net_price in ordered_dict.items():
 
 ---
 
-### Code Explanation:
+## Code Explanation:
 
 1. **Importing `OrderedDict`:**
    - The `OrderedDict` class from the `collections` module is used to maintain the order of insertion. Unlike a regular dictionary (prior to Python 3.7), `OrderedDict` remembers the order in which items are added.
