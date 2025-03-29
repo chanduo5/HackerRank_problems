@@ -1,4 +1,3 @@
-Sure! Let me break this down into three main parts: the **problem statement**, the **code**, and a **detailed explanation of the code**.
 
 ---
 
