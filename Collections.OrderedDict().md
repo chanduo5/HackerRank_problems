@@ -1,10 +1,10 @@
 
 ---
 
-### Problem Statement:
+# Problem Statement:
 You are the manager of a supermarket. Each day, you keep track of the items sold and their prices. Sometimes, the same item is sold multiple times at the same or different prices. Your task is to calculate the total price of each item (net price) in the order they were first sold and display them.
 
-#### Input:
+### Input:
 1. The first line contains an integer **N** (number of items sold on that day).
 2. The next **N** lines contain the name of the item and its price (separated by a space).
 
