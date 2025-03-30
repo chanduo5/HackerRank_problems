@@ -1,8 +1,7 @@
-Sure! Here's the **problem statement**, its **explanation**, and the **detailed breakdown of the code**.
 
 ---
 
-### Problem Statement
+# Problem Statement
 
 You are given **n words**, where some words may repeat. The task is to:
 
@@ -11,7 +10,7 @@ You are given **n words**, where some words may repeat. The task is to:
 
 ---
 
-#### **Constraints**:
+### **Constraints**:
 - \(1 < n < 10^5\)
 - The sum of the lengths of all the words does not exceed \(10^6\).
 - Words consist of only **lowercase English letters**.
@@ -58,7 +57,7 @@ apple
 
 ---
 
-### Detailed Explanation of the Code
+# Detailed Explanation of the Code
 
 Here’s the code again, followed by its breakdown:
 
@@ -164,4 +163,3 @@ count_word_occurrences()
 
 ---
 
-Feel free to experiment with the code or ask me further questions—I'm here to help! 😊
