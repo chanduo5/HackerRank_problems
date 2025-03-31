@@ -78,7 +78,7 @@ At the end of all operations, the contents of the `deque` are joined into a spac
 
 ---
 
-### **Example Walkthrough**
+## **Example Walkthrough**
 #### **Input:**
 ```
 6
@@ -111,4 +111,3 @@ appendleft 4
 2. **Simplicity:** Using a `for` loop and conditional checks ensures the code is concise and easy to follow.
 3. **Scalability:** Handles up to 100 operations, adhering to the problem's constraints.
 
-Does this explanation clarify the task and the code for you? Let me know if you'd like further help with testing or adapting the code!
