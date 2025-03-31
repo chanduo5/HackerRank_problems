@@ -17,7 +17,7 @@ You are given a series of operations to perform on an empty double-ended queue (
 
 ---
 
-### **Code Logic Explanation**
+# **Code Logic Explanation**
 Let's break the code into steps for better understanding:
 
 #### **Step 1: Importing `deque`**
