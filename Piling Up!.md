@@ -1,8 +1,7 @@
-Alright, let me break this problem down comprehensively, explaining the statement, constraints, examples, and step-by-step solution. I'll also provide the Python code implementation.
 
 ---
 
-### **Problem Statement**
+# **Problem Statement**
 You are given a horizontal row of `n` cubes. Each cube has a unique `sideLength`. You need to construct a new **vertical pile** of cubes by following **these rules**:
 1. If cube `i` is placed on top of cube `j`, then **sideLength[i] ≤ sideLength[j]** (the top cube must be smaller than or equal to the cube below it).
 2. At any step, you can pick only the **leftmost** or **rightmost** cube from the horizontal row.
