@@ -10,7 +10,7 @@ Your task is to determine whether it's **possible** to construct such a vertical
 
 ---
 
-### **Input Format**
+## **Input Format**
 1. The first line contains an integer, `T` (number of test cases).
 2. For each test case:
    - The first line contains an integer, `n` (number of cubes).
