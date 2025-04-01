@@ -71,7 +71,7 @@ No
 
 ---
 
-### **Python Code Implementation**
+# **Python Code Implementation**
 Here's the optimized solution:
 
 ```python
@@ -152,4 +152,3 @@ for result in results:
 
 ---
 
-Let me know if you'd like me to clarify any step further or test more cases! 😊
