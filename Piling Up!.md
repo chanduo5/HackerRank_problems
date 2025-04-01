@@ -29,7 +29,7 @@ Print `Yes` if it's possible to stack the cubes in the described manner for the 
 
 ---
 
-### **Explanation**
+## **Explanation**
 The goal is to determine whether we can build a stack while following the rules. At each step:
 - You can only pick the leftmost or rightmost cube.
 - You must ensure that the picked cube can be placed on top of the stack.
