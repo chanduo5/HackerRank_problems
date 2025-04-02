@@ -1,4 +1,4 @@
-### Problem Statement
+# Problem Statement
 A multinational brand plans to base its company logo on the top three most common characters in its name. Your task is to determine these characters along with their occurrence counts, adhering to the following rules:
 - Sort the characters in **descending order** of occurrence count.
 - If two or more characters have the same count, sort them **alphabetically**.
