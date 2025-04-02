@@ -3,20 +3,20 @@ A multinational brand plans to base its company logo on the top three most commo
 - Sort the characters in **descending order** of occurrence count.
 - If two or more characters have the same count, sort them **alphabetically**.
 
-### Constraints:
+## Constraints:
 1. The length of the input string \( S \) is between 4 and 10,000 characters.
 2. The string contains at least three distinct characters.
 3. The string consists of **lowercase letters** only.
 
-### Input Format:
+## Input Format:
 A single line containing the company name \( S \).
 
-### Output Format:
+## Output Format:
 The top three most common characters in \( S \), along with their occurrence counts. Each character-count pair is printed on a separate line.
 
 ---
 
-### Detailed Code with Explanation
+# Detailed Code with Explanation
 
 Here's the complete code for solving the problem, with step-by-step explanations:
 
