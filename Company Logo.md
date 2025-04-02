@@ -75,7 +75,7 @@ if __name__ == '__main__':
 
 ---
 
-### Example Input and Output
+## Example Input and Output
 
 #### Input:
 ```
@@ -103,4 +103,3 @@ e 1
 
 ---
 
-This explanation should clarify all parts of the problem and the code. Let me know if you'd like any further breakdown or additional test examples! 🚀
