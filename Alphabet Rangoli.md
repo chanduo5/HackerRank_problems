@@ -1,6 +1,8 @@
 ### **Problem Statement:**
 You are given an integer \( N \). Your task is to print an alphabet rangoli of size \( N \). A rangoli is a form of Indian folk art based on symmetrical and decorative patterns.
 
+
+
 #### **Constraints:**
 - The rangoli should be made using lowercase English letters.
 - The center of the rangoli contains the letter 'a', while the outermost layer contains the \( N \)-th letter of the alphabet.
