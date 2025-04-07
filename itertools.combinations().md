@@ -1,8 +1,7 @@
-Here's a detailed walkthrough of the problem statement and code explanation.
 
 ---
 
-### **Problem Statement**
+# **Problem Statement**
 You are given a string `S` (containing only uppercase English letters) and an integer `k`. Your task is to print all possible combinations of the characters in `S`, of size `1` up to `k`, in lexicographically sorted order. 
 
 For example:
@@ -23,7 +22,7 @@ For example:
 
 ---
 
-### **Code Explanation**
+# **Code Explanation**
 
 #### **1. Importing `itertools.combinations`**
 We use the `combinations` function from Python's `itertools` module. This function generates all possible combinations of a specified length `r` from the given iterable (like a string or list).
