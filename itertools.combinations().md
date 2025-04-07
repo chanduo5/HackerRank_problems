@@ -58,7 +58,7 @@ for combo in combinations(sorted(S), r):
 
 ---
 
-### **Key Features of the Code**
+# **Key Features of the Code**
 1. **Itertools Efficiency**: The `combinations` function ensures that duplicate combinations are avoided and lexicographic order is maintained without extra effort.
 2. **Dynamic Output**: The code adapts to any valid string and integer input, creating combinations for varying sizes up to `k`.
 3. **Sorting**: Sorting the string ensures the desired lexicographic order is automatically achieved.
