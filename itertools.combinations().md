@@ -91,7 +91,7 @@ HACK 2
    HK
    ```
 
-#### Output:
+### Output:
 ```
 A
 C
@@ -107,4 +107,3 @@ HK
 
 This code handles various scenarios efficiently and produces combinations based on the input constraints.
 
-Let me know if you'd like further clarification or help! 😊
