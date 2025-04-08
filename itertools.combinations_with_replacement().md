@@ -12,7 +12,7 @@ You are given a string \( S \) and an integer \( k \). Your task is to generate 
 
 ---
 
-### Code:
+# Code:
 Here is the Python code to solve the problem:
 
 ```python
