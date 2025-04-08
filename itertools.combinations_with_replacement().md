@@ -122,7 +122,7 @@ HACK 2
 
 ---
 
-### Key Points to Note:
+## Key Points to Note:
 1. **Lexicographic Order:** Sorting \( S \) ensures the combinations are produced in lexicographic order, as required by the problem.
 2. **Repetition:** The `combinations_with_replacement` function inherently allows repeated elements, which is why combinations like `AA` or `CC` are valid.
 3. **Tuple to String Conversion:** Each tuple is converted to a string using `''.join()` for a clean and readable output.
