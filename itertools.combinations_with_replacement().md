@@ -127,4 +127,3 @@ HACK 2
 2. **Repetition:** The `combinations_with_replacement` function inherently allows repeated elements, which is why combinations like `AA` or `CC` are valid.
 3. **Tuple to String Conversion:** Each tuple is converted to a string using `''.join()` for a clean and readable output.
 
-Let me know if you'd like further clarification or enhancements to the code!
