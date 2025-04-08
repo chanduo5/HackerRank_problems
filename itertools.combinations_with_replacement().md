@@ -1,4 +1,6 @@
-### Problem Statement
+-----------------------------------------
+
+# Problem Statement
 You are given a string \( S \) and an integer \( k \). Your task is to generate and print all possible combinations of size \( k \) from the characters of \( S \) in lexicographically sorted order, allowing for repetition of characters in the combinations.
 
 **Input Format:**
