@@ -36,7 +36,7 @@ for combination in result:
 
 ---
 
-### Detailed Explanation of the Code
+## Detailed Explanation of the Code
 
 #### **1. Importing the Required Library**
 ```python
@@ -86,7 +86,7 @@ for combination in result:
 
 ---
 
-### Example Walkthrough:
+# Example Walkthrough:
 
 #### **Input:**
 ```
