@@ -38,7 +38,7 @@ Taking the modulo ensures that the result fits within the range of integers \( [
 
 ---
 
-### **Python Code Implementation**
+# **Python Code Implementation**
 
 ```python
 from itertools import product
@@ -68,7 +68,7 @@ print(maximize_s(k, m, lists))
 
 ---
 
-### **Detailed Explanation of the Code**
+# **Detailed Explanation of the Code**
 
 #### 1. **Import `itertools.product`**
 We use `itertools.product` to generate all possible combinations of one element from each of the \( K \) lists. For example, if you have two lists: \([1, 2]\) and \([3, 4]\), the combinations generated will be:
@@ -117,7 +117,7 @@ The result is the maximum value of \( S \), which is printed in the final step.
 - \( K = 3 \), \( M = 1000 \)
 - Lists: \([5, 4]\), \([7, 8, 9]\), \([1, 2, 3, 4, 5]\)
 
-#### Combinations:
+### Combinations:
 Here are a few example combinations and their computed \( S \):
 - Combination: \((5, 7, 1)\)
   - Sum of squares: \( 5^2 + 7^2 + 1^2 = 25 + 49 + 1 = 75 \)
@@ -134,9 +134,8 @@ After trying all combinations, the maximum \( S \) is computed. In this case, le
 
 ---
 
-### **Complexity Analysis**
+## **Complexity Analysis**
 
 1. **Time Complexity:** \( O(N_1 \cdot N_2 \cdot \dots \cdot N_K) \), where \( N_i \) is the size of the \( i^{th} \) list. This arises from generating all combinations.
 2. **Space Complexity:** Depends on the memory used to store intermediate combinations.
 
-This approach is exhaustive and works well for smaller inputs. For larger inputs, optimizations or alternative techniques might be required. Let me know if you'd like to explore further!
