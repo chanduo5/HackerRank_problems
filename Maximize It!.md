@@ -14,7 +14,7 @@ S = (f(X_1) + f(X_2) + \dots + f(X_K)) \mod M
 
 Where \( X_1, X_2, \dots, X_K \) are the elements picked from their respective lists.
 
-### **Explanation**
+# **Explanation**
 - \( f(X) \): This is the square of the chosen number \( X \) from the list.
 - You need to calculate the sum of the squares of the selected elements and apply the modulo operator \( \% \) with \( M \) to find \( S \).
 - The goal is to **maximize \( S \)** by carefully choosing one element from each list.
