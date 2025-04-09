@@ -1,8 +1,7 @@
-Here’s a detailed breakdown of the problem statement, approach, and Python code explanation:
 
 ---
 
-### **Problem Statement**
+# **Problem Statement**
 You are given:
 - A function \( f(X) = X^2 \).
 - \( K \) lists, where the \( i^{th} \) list consists of \( N_i \) elements.
