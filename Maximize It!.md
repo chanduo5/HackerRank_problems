@@ -28,7 +28,7 @@ Where \( X_1, X_2, \dots, X_K \) are the elements picked from their respective l
 
 ---
 
-### **Approach**
+## **Approach**
 1. **Generate Combinations:** To solve the problem, you need to explore all possible combinations of picking one element from each of the \( K \) lists.
 2. **Compute \( S \):** For each combination, calculate the sum of squares of the selected elements and apply modulo \( M \).
 3. **Maximize \( S \):** Keep track of the highest value of \( S \) encountered.
