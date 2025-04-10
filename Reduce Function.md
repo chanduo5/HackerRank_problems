@@ -24,7 +24,7 @@ if __name__ == '__main__':
 
 ---
 
-### Detailed Explanation
+## Detailed Explanation
 
 #### 1. **Modules Used**
    - **`fractions` Module**: The `Fraction` class is used to handle rational numbers. It automatically simplifies fractions as they are created or manipulated.
@@ -49,7 +49,7 @@ if __name__ == '__main__':
 
 ---
 
-### How the Code Works Step by Step
+## How the Code Works Step by Step
 
 1. **Input Reading**:
    - The user specifies the number of fractions, `n`.
@@ -95,4 +95,3 @@ if __name__ == '__main__':
 
 ---
 
-Let me know if you'd like help testing or extending this code! 😊
