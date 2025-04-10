@@ -1,8 +1,8 @@
-### Problem Statement
+# Problem Statement
 
 You are given a list of rational numbers, represented as fractions. The task is to calculate the product of all the fractions in the list and return the result in its simplest form, i.e., the numerator and denominator should have no common divisor other than 1.
 
-### Code
+# Code
 
 Here's the completed code again for clarity:
 
