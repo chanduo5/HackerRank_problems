@@ -1,9 +1,7 @@
 
-Sure! Let's break this down step by step with detailed explanations.
-
 ---
 
-### **Problem Statement**
+# **Problem Statement**
 You are given a single line of space-separated integers. Your task is to convert this list into a **3×3 NumPy array**. Here's how the process works:
 1. Read the input (space-separated integers).
 2. Create a NumPy array from the input.
