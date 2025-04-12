@@ -78,7 +78,7 @@ print(result_array)
 
 ---
 
-### **Example Walkthrough**
+## **Example Walkthrough**
 
 #### Input:
 ```
