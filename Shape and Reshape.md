@@ -30,7 +30,7 @@ print(result_array)
 
 ---
 
-### **Explanation of the Code**
+## **Explanation of the Code**
 #### **Step 1: Input Handling**
 ```python
 input_list = list(map(int, input().split()))
