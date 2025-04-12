@@ -9,7 +9,7 @@ You are given a single line of space-separated integers. Your task is to convert
 
 ---
 
-### **Code**
+# **Code**
 
 Here’s the code again for reference:
 ```python
