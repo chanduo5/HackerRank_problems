@@ -1,4 +1,4 @@
-### **Detailed Problem Statement**
+# **Detailed Problem Statement**
 You are provided with a **2D N x M matrix**, where `N` represents the number of rows, and `M` represents the number of columns. Your task involves two main operations:
 1. **Transpose the matrix**: Convert the rows into columns and vice versa.
 2. **Flatten the matrix**: Transform the 2D matrix into a 1D array (a single continuous list of elements).
