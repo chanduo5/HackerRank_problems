@@ -96,7 +96,7 @@ print(my_array.flatten())
 
 ---
 
-### **Final Code Explanation**
+## **Final Code Explanation**
 Here’s how the code flows:
 1. **Input Dimensions**: First, it takes the size of the matrix (N x M) as input.
 2. **Input the Matrix**: It reads the matrix row by row and stores it as a 2D list.
@@ -106,7 +106,7 @@ Here’s how the code flows:
 
 ---
 
-### **Sample Input and Output**
+## **Sample Input and Output**
 #### **Input:**
 ```
 2 3
@@ -122,4 +122,3 @@ Here’s how the code flows:
 [1 2 3 4 5 6]
 ```
 
-Would you like me to test this code with an additional example or explain further? Let me know! 😊
