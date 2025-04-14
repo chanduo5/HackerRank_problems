@@ -97,6 +97,8 @@ print(my_array.flatten())
 
 ---
 
+
+
 ## **Final Code Explanation**
 Here’s how the code flows:
 1. **Input Dimensions**: First, it takes the size of the matrix (N x M) as input.
