@@ -4,6 +4,9 @@ You are provided with a **2D N x M matrix**, where `N` represents the number of 
 2. **Flatten the matrix**: Transform the 2D matrix into a 1D array (a single continuous list of elements).
 
 
+
+
+
 The program should:
 - Accept dimensions `N` and `M`.
 - Accept the elements of the matrix as input.
