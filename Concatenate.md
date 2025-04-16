@@ -1,7 +1,7 @@
 # **Problem Statement:**
 You are given two integer arrays of size **N × P** and **M × P** (where **N** and **M** are the number of rows, and **P** is the number of columns). Your task is to **concatenate** these arrays along **axis 0 (row-wise stacking)**.
 
-### **Input Format:**
+## **Input Format:**
 1. The first line contains three space-separated integers **N, M, and P**.
 2. The next **N** lines contain **P** space-separated integers representing the first array.
 3. The next **M** lines contain **P** space-separated integers representing the second array.
@@ -11,7 +11,7 @@ You are given two integer arrays of size **N × P** and **M × P** (where **N** 
 
 ---
 
-## **Code Explanation**
+# **Code Explanation**
 Here’s the Python code that solves the problem:
 
 ```python
