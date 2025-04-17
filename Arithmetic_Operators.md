@@ -33,6 +33,8 @@ The input consists of two integers:
 
 - The second integer, b.
 
+
+
 ### Code Implementation ###
 
 Here's the Python code that accomplishes this task:
