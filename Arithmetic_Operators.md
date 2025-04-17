@@ -8,6 +8,8 @@ Your task is to read two integers from the standard input, perform three operati
 
 - Calculate and print the product of the two integers.
 
+
+
 ## Example ##
 
 If the input integers are 5 and 3, the output should be:
