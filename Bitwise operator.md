@@ -1,5 +1,7 @@
 ### Problem
-Given an integer array `nums` where every element appears twice except for one. Find that single one. You must implement a solution with a linear runtime complexity and use only constant extra space.
+Given an integer array `nums` where every element appears twice except for one. Find that single one. You must implement a solution with a linear runtime complexity and use only constant extra space
+
+
 
 ### Solution
 You can use the XOR operator to solve this problem. XOR of all elements gives us the number with a single occurrence. Here’s how it works:
