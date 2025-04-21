@@ -69,6 +69,8 @@ for item_name, net_price in ordered_dict.items():
 
 ---
 
+
+
 ## Code Explanation:
 
 1. **Importing `OrderedDict`:**
