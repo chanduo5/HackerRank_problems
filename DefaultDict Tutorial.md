@@ -32,6 +32,8 @@ d
 -1
 ```
 
+
+
 **Explanation**:
 - `a` in Group B appears in positions 1, 3, 5 of Group A.
 - `d` in Group B does not appear in Group A, so `-1` is printed.
