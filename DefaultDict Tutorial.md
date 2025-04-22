@@ -1,6 +1,8 @@
 # Problem Explanation:
 The task is to process two groups of words and find the occurrence positions of each word from **Group B** in **Group A**. If a word from Group B is present in Group A, we print the indices (positions) where it appears. If it is not found, we print `-1`.
 
+
+
 #### Problem Input and Output:
 1. **Input**:
    - First line: Two integers `n` (number of words in Group A) and `m` (number of words in Group B).
