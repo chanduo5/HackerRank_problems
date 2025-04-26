@@ -44,7 +44,7 @@ if __name__ == '__main__':
 
 ---
 
-### Detailed Explanation:
+# Detailed Explanation:
 
 1. **Understanding the Function**:
    - The `average` function takes an array of integers as input.
