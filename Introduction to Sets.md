@@ -1,5 +1,5 @@
 
-
+------------------------------------------------------------------------
 # Problem Statement:
 **Distinct Heights Average Calculation**  
 Ms. Gabriel Williams, a botany professor, wants to analyze the heights of plants in her greenhouse. She asks her student, Mickey, to compute the **average height of all distinct plants**. Duplicate heights should not be considered in the average calculation, as each unique height is counted only once.
