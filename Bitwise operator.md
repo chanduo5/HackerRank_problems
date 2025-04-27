@@ -9,6 +9,8 @@ You can use the XOR operator to solve this problem. XOR of all elements gives us
 - XOR of a number with 0 is the number itself.
 - XOR is commutative and associative, so the order of operations doesn’t matter.
 
+--------------------------------------
+
 ### Code
 ```python
 
