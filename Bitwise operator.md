@@ -33,3 +33,5 @@ print(f"The single number is: {singleNumber(nums)}")
 - At the end of the iteration, `result` will hold the single number that appears once.
 
 This solution has linear runtime complexity \( O(n) \) and uses constant extra space \( O(1) \).
+
+---------------------------
