@@ -113,4 +113,4 @@ appendleft 4
 1. **Fast Operations:** Deques are optimized for operations like `append`, `pop`, and their counterparts for both ends.
 2. **Simplicity:** Using a `for` loop and conditional checks ensures the code is concise and easy to follow.
 3. **Scalability:** Handles up to 100 operations, adhering to the problem's constraints.
-
+------------------------------
