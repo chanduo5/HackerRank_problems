@@ -4,7 +4,7 @@
 # **Problem Statement**
 You are given a series of operations to perform on an empty double-ended queue (`deque`). The task is to apply the operations sequentially and print the final state of the `deque` in space-separated format.
 
-
+---------------------------
 
 
 ### **Input Format**:
