@@ -4,6 +4,9 @@
 # **Problem Statement**
 You are given a series of operations to perform on an empty double-ended queue (`deque`). The task is to apply the operations sequentially and print the final state of the `deque` in space-separated format.
 
+
+
+
 ### **Input Format**:
 1. The first line contains an integer `N`, the number of operations to perform.
 2. The next `N` lines contain the names of the operations (`append`, `pop`, `popleft`, or `appendleft`), optionally followed by a value (if applicable).
