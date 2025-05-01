@@ -40,7 +40,7 @@ symmetric_difference = set_M.symmetric_difference(set_N)
 for element in sorted(symmetric_difference):
     print(element)
 ```
-
+-----------------------------------------------------
 #### 1. **Reading Input for Set `M`:**
    ```python
    M = int(input())
