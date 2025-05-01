@@ -3,6 +3,8 @@ You are given two sets of integers, `M` and `N`. Your task is to:
 1. Compute the **symmetric difference** of the two sets. The symmetric difference consists of elements that are in either `M` or `N` but not in both.
 2. Print these elements in **ascending order**, one element per line.
 
+-------------------------------
+
 **Input Format:**
 1. The first line contains an integer, `M`, which represents the size of the first set.
 2. The second line contains `M` space-separated integers, which are the elements of the first set.
