@@ -1,7 +1,7 @@
 
 ---
 
-### ✅ **Problem Statement**
+# ✅ **Problem Statement**
 
 You are given:
 
@@ -32,7 +32,7 @@ You go through each element in the array and adjust your happiness:
 
 ---
 
-### ✅ **Input Format**
+# ✅ **Input Format**
 
 ```
 Line 1: Two integers n and m — the size of the array and the size of each set
