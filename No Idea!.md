@@ -175,5 +175,4 @@ print(happiness)
 
 If the array is very large and you want to optimize using frequency counts (to avoid scanning each item), you could use `collections.Counter`. Let me know if you'd like that version too.
 
-Do you want this turned into a function or class structure for reuse in larger projects or competitive programming?
 
