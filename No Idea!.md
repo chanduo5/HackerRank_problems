@@ -84,7 +84,7 @@ Walk through array:
 
 ---
 
-### ✅ **Python Code**
+# ✅ **Python Code**
 
 ```python
 # Read input
