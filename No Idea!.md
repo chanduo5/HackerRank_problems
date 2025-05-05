@@ -1,4 +1,3 @@
-Sure! Here's a **complete explanation** of the **problem statement**, **Python code**, and a **line-by-line breakdown** of how the code works.
 
 ---
 
