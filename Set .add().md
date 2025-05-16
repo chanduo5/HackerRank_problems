@@ -151,4 +151,3 @@ You could also solve this using a `list` and checking for duplicates manually â€
 
 ---
 
-Would you like this logic wrapped into a function or modified to read from a file for larger inputs?
