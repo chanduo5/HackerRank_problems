@@ -79,7 +79,7 @@ So, the answer is **5**.
 
 ---
 
-## ✅ Python Code
+# ✅ Python Code
 
 ```python
 # Step 1: Read the number of stamps
