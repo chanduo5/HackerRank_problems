@@ -17,7 +17,7 @@ Help Rupal **count the total number of **distinct** countries** represented in h
 
 ---
 
-### ✅ Input Format
+## ✅ Input Format
 
 ```
 Line 1: Integer N (number of stamps)
