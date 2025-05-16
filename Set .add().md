@@ -1,9 +1,8 @@
 
-Sure! Let’s break it all down for you step-by-step.
 
 ---
 
-## ✅ Problem Statement: **"Distinct Country Stamps"**
+# ✅ Problem Statement: **"Distinct Country Stamps"**
 
 Your friend **Rupal** has a collection of **country stamps**. Some of the stamps might come from the same country, and she wants to know **how many different countries** her stamps are from.
 
