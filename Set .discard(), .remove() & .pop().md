@@ -148,5 +148,4 @@ This problem tests your understanding of:
 * Exception handling (`KeyError`)
 * Set manipulation through commands
 
-Let me know if you want this wrapped as a script or want test automation for this.
 
