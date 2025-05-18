@@ -67,7 +67,7 @@ discard 5
 
 ---
 
-## 🧠 **Explanation of the Code**
+# 🧠 **Explanation of the Code**
 
 ```python
 n = int(input())                        # Read number of elements
