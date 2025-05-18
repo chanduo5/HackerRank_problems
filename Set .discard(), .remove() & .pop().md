@@ -3,7 +3,7 @@
 
 ## 🔧 **Problem Statement: Set Commands (`remove`, `discard`, `pop`)**
 
-### ✅ **Objective:**
+# ✅ **Objective:**
 
 You are given a **non-empty set** `s` of integers. You will also be given a list of **commands** (`remove`, `discard`, or `pop`) to execute on this set. After performing all the commands, print the **sum of the remaining elements** in the set.
 
