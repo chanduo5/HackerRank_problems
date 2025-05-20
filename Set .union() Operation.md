@@ -127,4 +127,3 @@ Count how many **students** are subscribed to **at least one** newspaper (Englis
 
 ---
 
-Would you like a version of this wrapped in a function for testing or automation purposes?
