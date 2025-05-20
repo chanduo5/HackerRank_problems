@@ -1,7 +1,7 @@
 
 ---
 
-## 🧾 Problem Statement: **Students and Newspaper Subscriptions**
+# 🧾 Problem Statement: **Students and Newspaper Subscriptions**
 
 ### 🎯 Objective:
 
