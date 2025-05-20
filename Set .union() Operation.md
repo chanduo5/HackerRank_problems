@@ -57,7 +57,7 @@ So, using `.union()` helps us determine how many **distinct students** are there
 
 ---
 
-## 💻 Python Code:
+# 💻 Python Code:
 
 ```python
 # Step 1: Read number of students who subscribed to English
